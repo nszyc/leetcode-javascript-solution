@@ -18,7 +18,7 @@ var isMonotoneIncreasing = function(array) {
 	return true
 }
 
-var isMonotoneDecreasing= function(array) {
+var isMonotoneDecreasing = function(array) {
 	if (array.length == 1) {
 		return true
 	}
